@@ -50,7 +50,7 @@ Specific app types are supported based on the version of Windows 10 that your us
 
 | App type | Home | Pro | Business | Enterprise | Education | S-Mode | HoloLens<sup>1 | Surface Hub | WCOS | Mobile |
 |----------------|------|-----|----------|------------|-----------|--------|-----------|------------|------|--------|
-|  .MSI | No | Yes | Yes | Yes | Yes | No | No | No | No | No |
+| LOB: .MSI | No | Yes | Yes | Yes | Yes | No | No | No | No | No |
 | .IntuneWin | No | Yes | Yes | Yes | Yes | 19H2+ | No | No | No | No |
 | Office C2R | No | Yes | Yes | Yes | Yes | RS4+ | No | No | No | No |
 | LOB: APPX/MSIX | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
