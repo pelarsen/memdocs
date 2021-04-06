@@ -141,7 +141,7 @@ These settings are available in the following profiles:
   - **Yes** - Network protection is turned on. Device users can't change this setting.
 
 - **Scan all downloaded files and attachments**  
-  CSP: [EnableNetworkProtection](/windows/client-management/mdm/policy-csp-defender#defender-enablenetworkprotection)
+  CSP: [AllowIOAVProtection](/windows/client-management/mdm/policy-csp-defender#defender-AllowIOAVProtection)
 
   Configure Defender to scan all downloaded files and attachments.
 
