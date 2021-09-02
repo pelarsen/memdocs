@@ -131,7 +131,7 @@ Enrollment restrictions allow you to control what types of devices can enroll in
   To assign licenses, see [Assign Microsoft Intune licenses](/mem/intune/fundamentals/licenses-assign).
 
   > [!NOTE]
-  > Both types of licenses are typically included with licensing bundles like Microsoft 365 E3 (or A3) and above. View comparisons of M365 licensing [here](/microsoft-365/compare-microsoft-365-enterprise-plans).
+  > Both types of licenses are typically included with licensing bundles like Microsoft 365 E3 (A3 or F3) and above. View comparisons of M365 licensing [here](https://www.microsoft.com/en-us/microsoft-365/compare-microsoft-365-enterprise-plans).
 
 ### Step 3 - Import your test device
 
